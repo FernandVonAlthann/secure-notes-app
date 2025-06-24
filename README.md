@@ -13,7 +13,6 @@ SECRET_KEY= any key
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-# secure-notes-app
 ```
 4. Install dependencies:
 ```bash
