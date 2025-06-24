@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+bcrypt
+cryptography
+sqlalchemy
+python-dotenv
+slowapi
